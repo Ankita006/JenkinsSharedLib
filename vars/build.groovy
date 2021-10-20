@@ -1,4 +1,4 @@
 def call(name)
 {
-echo "sh Hi ${name}"
+echo "Hi ${name}"
 }
